@@ -58,4 +58,3 @@ To forecast weekly sales for multiple Walmart stores using historical sales and 
 
 ---
 
-## 📂 Folder Structure
